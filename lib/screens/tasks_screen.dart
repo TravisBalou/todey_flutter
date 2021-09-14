@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:todey_flutter/widgets/tasks_list.dart';
 import 'add_task_screen.dart';
 
-List<String> tasks = ['buy milf', 'eat lunch', 'clean car'];
+List<String> tasks = ['buy milk', 'eat lunch', 'clean car'];
 
 class TasksScreen extends StatelessWidget {
   @override
